@@ -1,0 +1,55 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "private post 1",
+      "body": "qwe",
+      "userId": 1
+    },
+    {
+      "id": 2,
+      "title": "private post 2",
+      "body": "zxc",
+      "userId": 2
+    },
+    {
+      "id": 3,
+      "title": "private post 3",
+      "body": "asd",
+      "userId": 2
+    },
+    {
+      "id": 4,
+      "title": "private post 4",
+      "body": "hjk",
+      "userId": 714
+    },
+    {
+      "title": "new title",
+      "body": "new text",
+      "userId": "jmbIn6w6MSOxiWlGpQh3JSOc2F72",
+      "id": 5
+    },
+    {
+      "title": "qwe",
+      "body": "qwe",
+      "id": 6
+    },
+    {
+      "title": "zcx",
+      "body": "zxc",
+      "id": 7
+    },
+    {
+      "title": "q",
+      "body": "q",
+      "id": 8
+    },
+    {
+      "title": "wqe",
+      "body": "qwe",
+      "userId": "jmbIn6w6MSOxiWlGpQh3JSOc2F72",
+      "id": 9
+    }
+  ]
+}
